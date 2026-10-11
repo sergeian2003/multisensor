@@ -1,4 +1,4 @@
-#Multosensor — User Manual & Technical Guide
+Multosensor — User Manual & Technical Guide
 
 A comprehensive HMI system for water quality monitoring and industrial automation based on Raspberry Pi / Linux, Modbus RTU (RS485) interface, FastAPI web framework, pywebview graphical shell, and TailwindCSS styling.
 
